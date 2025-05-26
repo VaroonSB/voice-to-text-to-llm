@@ -97,3 +97,5 @@ local_settings.py
 # LLM/voice-to-text specific
 audio_outputs/
 transcripts/
+
+.streamlit/
